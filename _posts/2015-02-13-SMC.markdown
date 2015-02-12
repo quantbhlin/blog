@@ -13,25 +13,25 @@ header-img: "img/post-bg-06.jpg"
 ##SMC##
 
 ###Papers###
-1. Introduction of applications of SMC in Econ/Finance: Creal, D. (2012). A survey of sequential Monte Carlo methods for economics and finance. Econometric Reviews, 31(3), 245-296.
-2. Seminal paper of introducing particle filtering: Gordon, N. J., Salmond, D. J., & Smith, A. F. (1993, April). Novel approach to nonlinear/non-Gaussian Bayesian state estimation. In IEE Proceedings F (Radar and Signal Processing) (Vol. 140, No. 2, pp. 107-113). IET Digital Library.
-3. Kitgawa stratified resampling (resampling step is important; From my experience, this one works well and it is easy to implement): Kitagawa, G. (1996). Monte Carlo filter and smoother for non-Gaussian nonlinear state space models. Journal of computational and graphical statistics, 5(1), 1-25.
-4. Auxiliary particle filter: Pitt, M. K., & Shephard, N. (1999). Filtering via simulation: Auxiliary particle filters. Journal of the American statistical association, 94(446), 590-599.          The (1997) version of the paper contains details of the implementation.
-5. Smooth likelihood estimator (Likelihood is a byproduct of the particle filtering procedure, but if you need to, for example, perform a maximum likelihood estimation based on that, this paper is worth reading.): Pitt, M. K. (2002). Smooth particle filters for likelihood evaluation and maximisation.
-6. Liu & West filter: Liu, J., & West, M. (2001). Combined parameter and state estimation in simulation-based filtering. In Sequential Monte Carlo methods in practice (pp. 197-223). Springer New York.
-7. Particle learning: Carvalho, C. M., Johannes, M. S., Lopes, H. F., & Polson, N. G. (2010). Particle learning and smoothing. Statistical Science, 25(1), 88-106.
-8. CDKF, CDPF and application for DSGE model:  Andreasen, M. M. (2011). Non-linear DSGE models and the optimized central difference particle filter. Journal of Economic Dynamics and Control, 35(10), 1671-1695.
+1. Introduction of applications of SMC in Econ/Finance: Creal, D. (2012). [A survey of sequential Monte Carlo methods for economics and finance](http://faculty.chicagobooth.edu/drew.creal/research/papers/creal2009survey.pdf). Econometric Reviews, 31(3), 245-296.
+2. Seminal paper of introducing particle filtering: Gordon, N. J., Salmond, D. J., & Smith, A. F. (1993, April). [Novel approach to nonlinear/non-Gaussian Bayesian state estimation](http://www3.nd.edu/~lemmon/courses/ee67033/pubs/GordonSalmondSmith93.pdf). In IEE Proceedings F (Radar and Signal Processing) (Vol. 140, No. 2, pp. 107-113). IET Digital Library.
+3. Kitgawa stratified resampling (resampling step is important; From my experience, this one works well and it is easy to implement): Kitagawa, G. (1996). [Monte Carlo filter and smoother for non-Gaussian nonlinear state space models](http://www.jstor.org/stable/1390750). Journal of computational and graphical statistics, 5(1), 1-25.
+4. Auxiliary particle filter: Pitt, M. K., & Shephard, N. (1999). [Filtering via simulation: Auxiliary particle filters](http://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10474153#.VD1ZGB93NNA). Journal of the American statistical association, 94(446), 590-599.          The (1997) version of the paper contains details of the implementation.
+5. Smooth likelihood estimator (Likelihood is a byproduct of the particle filtering procedure, but if you need to, for example, perform a maximum likelihood estimation based on that, this paper is worth reading.): Pitt, M. K. (2002). [Smooth particle filters for likelihood evaluation and maximisation](http://wrap.warwick.ac.uk/1536/1/WRAP_Pitt_twerp651.pdf).
+6. Liu & West filter: Liu, J., & West, M. (2001). [Combined parameter and state estimation in simulation-based filtering](http://link.springer.com/chapter/10.1007/978-1-4757-3437-9_10#page-1). In Sequential Monte Carlo methods in practice (pp. 197-223). Springer New York.
+7. Particle learning: Carvalho, C. M., Johannes, M. S., Lopes, H. F., & Polson, N. G. (2010). [Particle learning and smoothing](http://projecteuclid.org/euclid.ss/1280841735). Statistical Science, 25(1), 88-106.
+8. CDKF, CDPF and application for DSGE model:  Andreasen, M. M. (2011). [Non-linear DSGE models and the optimized central difference particle filter](http://www.sciencedirect.com/science/article/pii/S0165188911000716). Journal of Economic Dynamics and Control, 35(10), 1671-1695.
 
 ###Prof's Sites###
-1. Pierre Del Moral: http://web.maths.unsw.edu.au/~peterdel-moral/
-2. Arnaud Doucet: http://www.stats.ox.ac.uk/~doucet/smc_resources.html
+1. [Pierre Del Moral](http://web.maths.unsw.edu.au/~peterdel-moral/ "Pierre Del Moral")
+2. [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/smc_resources.html "Arnaud Doucet")
 
 ###Books###
-1. (ADVANCED) Feynman-Kac Formulae Genealogical and Interacting Particle Systems with Applications.  A difficult one, but definitely worth reading if you are into SMC.
+1. (ADVANCED) [Feynman-Kac Formulae Genealogical and Interacting Particle Systems with Applications](http://web.maths.unsw.edu.au/~peterdel-moral/gips.html).  A difficult one, but definitely worth reading if you are into SMC.
 
 ###Software###
-1. Dynare github: https://github.com/DynareTeam/dynare      Developers of Dynare (a package for DSGE model) has implemented some of the particle filter algorithm which are available at the github. 
-2. CDKF CDPF: https://sites.google.com/site/mandreasendk/home-1      A sample of  implementation of CDKF and CDPF is available at the author's site.
+1. Dynare [github](https://github.com/DynareTeam/dynare):      Developers of Dynare (a package for DSGE model) has implemented some of the particle filter algorithm which are available at the github. 
+2. [CDKF CDPF](https://sites.google.com/site/mandreasendk/home-1)      A sample of  implementation of CDKF and CDPF is available at the author's site.
 
 
 
