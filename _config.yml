@@ -3,7 +3,7 @@ title: Binghuan Lin
 header-img: img/home-bg.jpg
 email: binghuan.lin@hotmail.com
 description: "Binghuan's blog"
-baseurl: ""
+baseurl: "/blog"
 url: "http://quantbhlin.github.io/blog/"
 github_username:  quantbhlin
 
