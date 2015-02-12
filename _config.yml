@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: binghuan.lin@hotmail.com
 description: "Binghuan's blog"
 baseurl: ""
-url: "http://quantbhlin.github.io/blog"
+url: "http://quantbhlin.github.io/blog/"
 github_username:  quantbhlin
 
 # Build settings
