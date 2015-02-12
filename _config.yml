@@ -1,0 +1,15 @@
+# Site settings
+title: Binghuan Lin
+header-img: img/home-bg.jpg
+email: binghuan.lin@hotmail.com
+description: "Binghuan's blog"
+baseurl: ""
+url: "http://quantbhlin.github.io/blog"
+github_username:  quantbhlin
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
