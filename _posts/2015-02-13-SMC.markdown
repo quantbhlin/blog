@@ -33,6 +33,11 @@ header-img: "img/post-bg-06.jpg"
 1. Dynare [github](https://github.com/DynareTeam/dynare):      Developers of Dynare (a package for DSGE model) has implemented some of the particle filter algorithm which are available at the github. 
 2. [CDKF CDPF](https://sites.google.com/site/mandreasendk/home-1)      A sample of  implementation of CDKF and CDPF is available at the author's site.
 
+##Optimization Techniques##
+1. [ADMM](http://stanford.edu/~boyd/software.html), a distributed optimization technique that could be useful for large scale machine learning problems, from the Master of optimization: Stephen Boyd.
+2. [csminwel](http://sims.princeton.edu/yftp/optimize/), an unconstrained optimizer that probably all econ (quantitative) students are familiar with, by Nobel Laureate Chris Sims: 
+3. [Differential Evolutionary Algorithm](http://www1.icsi.berkeley.edu/~storn/code.html)
+[CMA-ES](https://www.lri.fr/~hansen/cmaesintro.html)
 
 
 
