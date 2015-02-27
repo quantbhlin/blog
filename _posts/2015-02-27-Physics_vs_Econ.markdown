@@ -2,7 +2,7 @@
 layout:     post
 title:      "Ketchup Econ & Ketchup Physics"
 subtitle:   "Discussion on econ physics and economics"
-date:       2015-02-13 12:00:00
+date:       2015-02-27 12:00:00
 author:     "Binghuan Lin"
 header-img: "img/post-bg-01.jpg"
 ---
@@ -27,6 +27,7 @@ header-img: "img/post-bg-01.jpg"
 剧情似乎应该是应该这样发展：ketchup 经济学家搁置和general 经济学家的争议，投入与ketchup物理学家的讨(si)论(bi)当中。如果，双方你来我往，讨（si）论（bi）同时，顺便多发paper，大家live happy forever倒也是一桩美事。
 
 ketchup物理学是不是可以有以下两种理解：
+
 1. 运用物理方法更好的解决了ketchup市场的问题，是不是可以看做研究ketchup的一个子学科呢？类比于ketchup 计量学？
 2. 当然，另外的看法可以是ketchup 物理学家 认为ketchup市场本身是个ketchup复杂系统，从物理学观点理解ketchup市场。
 
