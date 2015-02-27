@@ -6,7 +6,7 @@ date:       2015-02-27 12:00:00
 author:     "Binghuan Lin"
 header-img: "img/post-bg-01.jpg"
 ---
-This is reposted from [my answer](http://www.zhihu.com/question/28283321/answer/40222549/ to a question posted on Zhihu (Chinese version of Quara and a much better one). 
+This is reposted from [my answer](http://www.zhihu.com/question/28283321/answer/40222549/) to a question posted on Zhihu (Chinese version of Quara and a much better one). 
 
 #Ketchup Econ V.S. Ketchup Physics: Should Ketchup physics belong Department of Ketchup or School of Physics？#
 
