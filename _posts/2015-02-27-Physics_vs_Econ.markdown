@@ -32,11 +32,13 @@ ketchup物理学是不是可以有以下两种理解：
 2. 当然，另外的看法可以是ketchup 物理学家 认为ketchup市场本身是个ketchup复杂系统，从物理学观点理解ketchup市场。
 
 我的观点是：
+
 1. 如果ketchup 物理学的研究是限于应用物理学方法到ketch市场，那么它应该属于和ketchup 计量学等平行的学科。所以研究也不能绕开现有用其他方法对ketchup 市场的研究。
 2. 如果ketchup 物理学研究是是ketchup 市场作为一个物理学概念（比如复杂系统的例子），研究这个复杂系统的本身的特征，那么似乎应该是保持一定的独立性。
 
 
 参考文献:
+
 1. Summers, L. H. (1985). On economics and finance. Journal of Finance, 633-635.
 2. Bouchaud, J. P. (2008). Economics needs a scientific revolution. Nature, 455(7217), 1181-1181.
 
