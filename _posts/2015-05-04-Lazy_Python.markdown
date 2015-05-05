@@ -15,9 +15,9 @@ This is about how to create anonymous functions in Python. To do that, you can u
 Here are two simple examples of how to use `lambda` and recursion to achieve that.
 
 ## Example 1: Fibonacci Sequence
-
-    fibo = lambda N, x=0,y=1: x if not(N) else fibo(N-1,y,x+y)
-
+``` python
+fibo = lambda N, x=0,y=1: x if not(N) else fibo(N-1,y,x+y)
+```
 
 ## Example 2: Square Root
 
