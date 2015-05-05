@@ -12,7 +12,6 @@ It might happen in a technical interview, you were asked to write a python progr
 
 This is about how to create anonymous functions in Python. To do that, you can use *lambda function*.
 
-
 Here are two simple examples of how to use lambda and recursion to achieve that.
 
 ## Example 1: Fibonacci Sequence
@@ -22,8 +21,7 @@ Here are two simple examples of how to use lambda and recursion to achieve that.
 
 ## Example 2: Square Root 
 
-```
-mySQRT = lambda x, ans=1., epsilon=0.01: ans if abs(ans**2-y)<epsilon else mySQRT(x,1./2*(ans+x/ans),epsilon)
-```
+    mySQRT = lambda x, ans=1., epsilon=0.01: ans if abs(ans**2-y)<epsilon else mySQRT(x,1./2*(ans+x/ans),epsilon)
+
 
 <p>Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
