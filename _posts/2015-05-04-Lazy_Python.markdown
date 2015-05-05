@@ -10,7 +10,7 @@ header-img: "img/post-bg-02.jpg"
 
 It might happen in a technical interview, you were asked to write a python program for .. in one line?
 
-This is about how to create anonymous functions in Python. To do that, you can use `lambda` function.
+This is about how to create anonymous functions in Python. To do that, you can use <code>lambda</code> function.
 
 Here are two simple examples of how to use `lambda` and recursion to achieve that.
 
