@@ -6,13 +6,13 @@ date:       2015-05-05 12:00:00
 author:     "Binghuan Lin"
 header-img: "img/post-bg-02.jpg"
 ---
-First, this post is not aim to achieve the best algorithm, in terms of complexity, for the examples provided below.
+<u>First, this post is not aim to achieve the best algorithm, in terms of complexity, for the examples provided below.</u>
 
 It might happen in a technical interview, you were asked to write a python program for .. in one line?
 
-This is about how to create anonymous functions in Python. To do that, you can use *lambda function*.
+This is about how to create anonymous functions in Python. To do that, you can use `lambda` function.
 
-Here are two simple examples of how to use lambda and recursion to achieve that.
+Here are two simple examples of how to use `lambda` and recursion to achieve that.
 
 ## Example 1: Fibonacci Sequence
 
