@@ -21,7 +21,7 @@ fibo = lambda N, x=0,y=1: x if not(N) else fibo(N-1,y,x+y)
 
 ## Example 2: Square Root
 
-    mySQRT = lambda x, ans=1., epsilon=0.01: ans if abs(ans**2-y)<epsilon else mySQRT(x,1./2*(ans+x/ans),epsilon)
+    mySQRT = lambda x, ans=1., epsilon=0.01: ans if abs(ans**2-x)<epsilon else mySQRT(x,1./2*(ans+x/ans),epsilon)
 
 
 <p>Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
